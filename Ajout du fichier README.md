@@ -10,4 +10,4 @@ Ce projet démontre l'utilisation de GitHub avec :
 - Gestion des tâches avec Issues
 - Hébergement avec GitHub Pages
 
-Lien du site : [à ajouter après activation GitHub Pages](https://cedric-nguena.github.io/bonjour-github/)
+[Lien du site](https://cedric-nguena.github.io/bonjour-github/)
